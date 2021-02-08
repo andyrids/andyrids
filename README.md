@@ -1,22 +1,23 @@
 ## Hi there, I'm Andy
 
-I'm a dual trained analyst and linguist and I'm currently in the process of upskilling, with the aim of becoming a front-end developer.
+I'm an analyst and linguist by trade. Although I've dabbled with programming in the past, I only started focusing heavily on web development in Jan 2020, with the aim of changing careers in the next few years. I fell in love with front-end development almost immediately, and I've particularly enjoyed learning Svelte as it acted as an excellent transition point from VanillaJS.
 
-- 🔭 I’m currently working on: 
-1. My portfolio site as a continuous project
-2. A weather app, using Svelte
+### I’m currently working on
 
-- 🌱 I’m currently learning: 
-1. More advanced JavaScript
-2. Svelte
+1. A svelte weather app, which uses OpenWeatherMap, LocationIQ, Charts.js, IndexedDB and lambda functions. It was meant as an initial future portfolio project (once it's more refined), that would help consolidate everything I had learned upto this point and I wanted it to be something that challenged me.
 
-### Languages and Tools:
+2. ISBN Barcode scanner application that retrieves information about book from an API and stores it in a FaunaDB database and acts like a digital book collection/library.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png" />
+### I’m currently learning
+
+1. More about state management and ways to impliment immer's produce function alongside Svelte writable stores.
+2. FaunaDB. I've enjoyed working within the JAMstack so far and I felt this was a good choice to get to grips with.
+3. How to impliment a refresh token (HTTPOnly cookie) and access token (in memory) flow, with a partial backend (Netlify Functions), for authorisation.
+4. More about testing in general - Jest, Mocha, Web Test Runner.
+
+### I'm currently using
+
+1. JS / Svelte
+2. Node.js / AWS Lambda
+3. Snowpack / Rollup / Git
+
