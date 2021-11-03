@@ -1,12 +1,12 @@
 ## Hi there, I'm Andy
 
-I'm an analyst and linguist by trade. Although I've dabbled with programming in the past, I only started focusing heavily on web development in Jan 2020. I fell in love with front-end development, and I've particularly enjoyed learning Svelte as it acted as an excellent transition point from VanillaJS. I've also been developing with the Raspberry Pi products and more recently, the Raspberry Pi Pico microcontroller. I find embedded software development and IOT in general very interesting.
+I'm an analyst and linguist by trade. I only started focusing heavily on web development in Jan 2020. I fell in love with front-end development, and I've particularly enjoyed learning Svelte as it acted as an excellent transition point from VanillaJS. I've also been developing with the Raspberry Pi products and in particular, the Raspberry Pi Pico microcontroller. I find embedded software development and IoT in general very interesting.
 
 ### I’m currently working on
 
-1. Automated irrigation system
+1. NRF24L01 driver for Raspberry Pi Pico
 
-I'm using a Raspberry Pi Pico, NRF24L01 modules, soil moisture sensors and a motorised ball valve for this project. I'm coding in C, using the pico-sdk in order to interface all of the components with the RPi Pico.
+2. Automated irrigation system
 
 ### I’m currently learning
 
