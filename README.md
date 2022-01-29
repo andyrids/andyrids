@@ -1,6 +1,6 @@
 ## Hi there, I'm Andy
 
-I'm an analyst and linguist by trade. I only started focusing heavily on web development in Jan 2020. I fell in love with front-end development, and I've particularly enjoyed learning Svelte as it acted as an excellent transition point from VanillaJS. I've also been developing with the Raspberry Pi products and in particular, the Raspberry Pi Pico microcontroller. I find embedded software development and IoT in general very interesting.
+I'm an analyst and linguist by trade. I enjoy working with Raspberry Pi products and in particular, the Raspberry Pi Pico microcontroller. I find embedded software development and IoT in general very interesting.
 
 ### I’m currently working on
 
