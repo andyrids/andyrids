@@ -11,7 +11,7 @@ I'm an analyst and linguist by trade. I enjoy working with Raspberry Pi products
 ### I’m currently learning
 
 1. More about state management and ways to impliment immer's produce function alongside Svelte writable stores.
-2. FaunaDB. I've enjoyed working within the JAMstack so far and I felt this was a good choice to get to grips with.
+2. FaunaDB.
 3. How to impliment a refresh token (HTTPOnly cookie) and access token (in memory) flow, with a partial backend (Netlify Functions), for authorisation.
 4. More about testing in general - Jest, Mocha, Web Test Runner.
 5. Electronics relevant to makers.
