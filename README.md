@@ -24,3 +24,4 @@ I'm an analyst and linguist by trade. I enjoy working with Raspberry Pi products
 2. C / pico-sdk
 3. Node.js / AWS Lambda
 4. Snowpack / Rollup / Git
+
