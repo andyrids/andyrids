@@ -9,7 +9,7 @@ I am currently experimenting with a custom installation of an Alpine Linux minim
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white) &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-I have a detailed setup guide [here](https://github.com/AndyRids/Alpine-WSL-Dev).
+I have a detailed setup guide [here](https://github.com/andyrids/alpine-wsl-dev).
 
 I am currently migrating my WSL2 dev environment to Void Linux. I had issues installing some python packages for use with MicroPython projects. These packages cannot easily include an sdist, meaning they cannot be installed on Alpine, which uses `musl` and not `glibc`. A custom rootfs Void Linux
 installation was much easier to setup on WSL2 than Alpine.
@@ -17,7 +17,7 @@ installation was much easier to setup on WSL2 than Alpine.
 ![Void Linux](https://img.shields.io/badge/Void%20Linux-%23478061?style=for-the-badge&logo=voidlinux&logoColor=%23478061&labelColor=%23000000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-TODO: Detailed Void Linux setup guide.
+I have a detailed setup guide [here](https://github.com/andyrids/void-wsl-dev).
 
 ### Analysis & Research
 
