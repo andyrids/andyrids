@@ -1,6 +1,6 @@
 # Introduction
 
-I'm a former linguist with analytical experience, who works in a an operational data mining role, which involves the creation of custom analytics and the automation of technical analytic tradecraft. My personal projects are often geared towards professional development, but also frontend development and embedded projects with Raspberry Pi.
+I'm a former linguist and analyst, working in a an operational data mining role. My personal projects are often geared towards professional development, but also frontend development and embedded projects with Raspberry Pi devices.
 
 ## My Dev Environment
 
