@@ -1,6 +1,6 @@
 # Introduction
 
-I work in a Data Mining role within a CapDev team, creating custom and department-agnostic analytics and automation products.
+I work in a CapDev role, creating custom and department-agnostic analytics and automation products.
 
 I typically steer personal projects towards professional development, but I also have a strong passion for embedded projects with Raspberry Pi.
 
